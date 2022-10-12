@@ -1,0 +1,324 @@
+BEGIN CRACKSURFACE
+#
+#
+#
+
+BEGIN NODES NUMBERED
+
+1            0        0.013            0
+2            0            0            0
+3            0        0.013          0.1
+4            0            0          0.1
+5            0        0.013          0.2
+6            0            0          0.2
+7            0        0.013          0.3
+8            0            0          0.3
+9            0        0.013          0.4
+10            0            0          0.4
+11            0        0.013          0.5
+12            0            0          0.5
+13            0        0.013          0.6
+14            0            0          0.6
+15            0        0.013          0.7
+16            0            0          0.7
+17            0        0.013          0.8
+18            0            0          0.8
+19            0        0.013          0.9
+20            0            0          0.9
+21            0        0.013            1
+22            0            0            1
+23            0        0.013          1.1
+24            0            0          1.1
+25            0        0.013          1.2
+26            0            0          1.2
+27            0        0.013          1.3
+28            0            0          1.3
+29            0        0.013          1.4
+30            0            0          1.4
+31            0        0.013          1.5
+32            0            0          1.5
+33            0        0.013          1.6
+34            0            0          1.6
+35            0        0.013          1.7
+36            0            0          1.7
+37            0        0.013          1.8
+38            0            0          1.8
+39            0        0.013          1.9
+40            0            0          1.9
+41            0        0.013            2
+42            0            0            2
+43            0        0.013          2.1
+44            0            0          2.1
+45            0        0.013          2.2
+46            0            0          2.2
+47            0        0.013          2.3
+48            0            0          2.3
+49            0        0.013          2.4
+50            0            0          2.4
+51            0        0.013          2.5
+52            0            0          2.5
+53            0        0.013          2.6
+54            0            0          2.6
+55            0        0.013          2.7
+56            0            0          2.7
+57            0        0.013          2.8
+58            0            0          2.8
+59            0        0.013          2.9
+60            0            0          2.9
+61            0        0.013            3
+62            0            0            3
+63            0        0.013          3.1
+64            0            0          3.1
+65            0        0.013          3.2
+66            0            0          3.2
+67            0        0.013          3.3
+68            0            0          3.3
+69            0        0.013          3.4
+70            0            0          3.4
+71            0        0.013          3.5
+72            0            0          3.5
+73            0        0.013          3.6
+74            0            0          3.6
+75            0        0.013          3.7
+76            0            0          3.7
+77            0        0.013          3.8
+78            0            0          3.8
+79            0        0.013          3.9
+80            0            0          3.9
+81            0        0.013            4
+82            0            0            4
+83            0        0.013          4.1
+84            0            0          4.1
+85            0        0.013          4.2
+86            0            0          4.2
+87            0        0.013          4.3
+88            0            0          4.3
+89            0        0.013          4.4
+90            0            0          4.4
+91            0        0.013          4.5
+92            0            0          4.5
+93            0        0.013          4.6
+94            0            0          4.6
+95            0        0.013          4.7
+96            0            0          4.7
+97            0        0.013          4.8
+98            0            0          4.8
+99            0        0.013          4.9
+100            0            0          4.9
+101            0        0.013            5
+102            0            0            5
+103            0        0.013          5.1
+104            0            0          5.1
+105            0        0.013          5.2
+106            0            0          5.2
+107            0        0.013          5.3
+108            0            0          5.3
+109            0        0.013          5.4
+110            0            0          5.4
+111            0        0.013          5.5
+112            0            0          5.5
+113            0        0.013          5.6
+114            0            0          5.6
+115            0        0.013          5.7
+116            0            0          5.7
+117            0        0.013          5.8
+118            0            0          5.8
+119            0        0.013          5.9
+120            0            0          5.9
+121            0        0.013            6
+122            0            0            6
+123            0        0.013          6.1
+124            0            0          6.1
+
+END
+
+BEGIN ELEMENTS NUMBERED
+
+CrackEdge2 123 { 3 1 }
+CrackEdge2 124 { 5 3 }
+CrackEdge2 125 { 7 5 }
+CrackEdge2 126 { 9 7 }
+CrackEdge2 127 { 11 9 }
+CrackEdge2 128 { 13 11 }
+CrackEdge2 129 { 15 13 }
+CrackEdge2 130 { 17 15 }
+CrackEdge2 131 { 19 17 }
+CrackEdge2 132 { 21 19 }
+CrackEdge2 133 { 23 21 }
+CrackEdge2 134 { 25 23 }
+CrackEdge2 135 { 27 25 }
+CrackEdge2 136 { 29 27 }
+CrackEdge2 137 { 31 29 }
+CrackEdge2 138 { 33 31 }
+CrackEdge2 139 { 35 33 }
+CrackEdge2 140 { 37 35 }
+CrackEdge2 141 { 39 37 }
+CrackEdge2 142 { 41 39 }
+CrackEdge2 143 { 43 41 }
+CrackEdge2 144 { 45 43 }
+CrackEdge2 145 { 47 45 }
+CrackEdge2 146 { 49 47 }
+CrackEdge2 147 { 51 49 }
+CrackEdge2 148 { 53 51 }
+CrackEdge2 149 { 55 53 }
+CrackEdge2 150 { 57 55 }
+CrackEdge2 151 { 59 57 }
+CrackEdge2 152 { 61 59 }
+CrackEdge2 153 { 63 61 }
+CrackEdge2 154 { 65 63 }
+CrackEdge2 155 { 67 65 }
+CrackEdge2 156 { 69 67 }
+CrackEdge2 157 { 71 69 }
+CrackEdge2 158 { 73 71 }
+CrackEdge2 159 { 75 73 }
+CrackEdge2 160 { 77 75 }
+CrackEdge2 161 { 79 77 }
+CrackEdge2 162 { 81 79 }
+CrackEdge2 163 { 83 81 }
+CrackEdge2 164 { 85 83 }
+CrackEdge2 165 { 87 85 }
+CrackEdge2 166 { 89 87 }
+CrackEdge2 167 { 91 89 }
+CrackEdge2 168 { 93 91 }
+CrackEdge2 169 { 95 93 }
+CrackEdge2 170 { 97 95 }
+CrackEdge2 171 { 99 97 }
+CrackEdge2 172 { 101 99 }
+CrackEdge2 173 { 103 101 }
+CrackEdge2 174 { 105 103 }
+CrackEdge2 175 { 107 105 }
+CrackEdge2 176 { 109 107 }
+CrackEdge2 177 { 111 109 }
+CrackEdge2 178 { 113 111 }
+CrackEdge2 179 { 115 113 }
+CrackEdge2 180 { 117 115 }
+CrackEdge2 181 { 119 117 }
+CrackEdge2 182 { 121 119 }
+CrackEdge2 183 { 123 121 }
+
+CrackTri3 1 { 1 3 2 }
+CrackTri3 2 { 3 4 2 }
+CrackTri3 3 { 3 5 4 }
+CrackTri3 4 { 5 6 4 }
+CrackTri3 5 { 5 7 6 }
+CrackTri3 6 { 7 8 6 }
+CrackTri3 7 { 7 9 8 }
+CrackTri3 8 { 9 10 8 }
+CrackTri3 9 { 9 11 10 }
+CrackTri3 10 { 11 12 10 }
+CrackTri3 11 { 11 13 12 }
+CrackTri3 12 { 13 14 12 }
+CrackTri3 13 { 13 15 14 }
+CrackTri3 14 { 15 16 14 }
+CrackTri3 15 { 15 17 16 }
+CrackTri3 16 { 17 18 16 }
+CrackTri3 17 { 17 19 18 }
+CrackTri3 18 { 19 20 18 }
+CrackTri3 19 { 19 21 20 }
+CrackTri3 20 { 21 22 20 }
+CrackTri3 21 { 21 23 22 }
+CrackTri3 22 { 23 24 22 }
+CrackTri3 23 { 23 25 24 }
+CrackTri3 24 { 25 26 24 }
+CrackTri3 25 { 25 27 26 }
+CrackTri3 26 { 27 28 26 }
+CrackTri3 27 { 27 29 28 }
+CrackTri3 28 { 29 30 28 }
+CrackTri3 29 { 29 31 30 }
+CrackTri3 30 { 31 32 30 }
+CrackTri3 31 { 31 33 32 }
+CrackTri3 32 { 33 34 32 }
+CrackTri3 33 { 33 35 34 }
+CrackTri3 34 { 35 36 34 }
+CrackTri3 35 { 35 37 36 }
+CrackTri3 36 { 37 38 36 }
+CrackTri3 37 { 37 39 38 }
+CrackTri3 38 { 39 40 38 }
+CrackTri3 39 { 39 41 40 }
+CrackTri3 40 { 41 42 40 }
+CrackTri3 41 { 41 43 42 }
+CrackTri3 42 { 43 44 42 }
+CrackTri3 43 { 43 45 44 }
+CrackTri3 44 { 45 46 44 }
+CrackTri3 45 { 45 47 46 }
+CrackTri3 46 { 47 48 46 }
+CrackTri3 47 { 47 49 48 }
+CrackTri3 48 { 49 50 48 }
+CrackTri3 49 { 49 51 50 }
+CrackTri3 50 { 51 52 50 }
+CrackTri3 51 { 51 53 52 }
+CrackTri3 52 { 53 54 52 }
+CrackTri3 53 { 53 55 54 }
+CrackTri3 54 { 55 56 54 }
+CrackTri3 55 { 55 57 56 }
+CrackTri3 56 { 57 58 56 }
+CrackTri3 57 { 57 59 58 }
+CrackTri3 58 { 59 60 58 }
+CrackTri3 59 { 59 61 60 }
+CrackTri3 60 { 61 62 60 }
+CrackTri3 61 { 61 63 62 }
+CrackTri3 62 { 63 64 62 }
+CrackTri3 63 { 63 65 64 }
+CrackTri3 64 { 65 66 64 }
+CrackTri3 65 { 65 67 66 }
+CrackTri3 66 { 67 68 66 }
+CrackTri3 67 { 67 69 68 }
+CrackTri3 68 { 69 70 68 }
+CrackTri3 69 { 69 71 70 }
+CrackTri3 70 { 71 72 70 }
+CrackTri3 71 { 71 73 72 }
+CrackTri3 72 { 73 74 72 }
+CrackTri3 73 { 73 75 74 }
+CrackTri3 74 { 75 76 74 }
+CrackTri3 75 { 75 77 76 }
+CrackTri3 76 { 77 78 76 }
+CrackTri3 77 { 77 79 78 }
+CrackTri3 78 { 79 80 78 }
+CrackTri3 79 { 79 81 80 }
+CrackTri3 80 { 81 82 80 }
+CrackTri3 81 { 81 83 82 }
+CrackTri3 82 { 83 84 82 }
+CrackTri3 83 { 83 85 84 }
+CrackTri3 84 { 85 86 84 }
+CrackTri3 85 { 85 87 86 }
+CrackTri3 86 { 87 88 86 }
+CrackTri3 87 { 87 89 88 }
+CrackTri3 88 { 89 90 88 }
+CrackTri3 89 { 89 91 90 }
+CrackTri3 90 { 91 92 90 }
+CrackTri3 91 { 91 93 92 }
+CrackTri3 92 { 93 94 92 }
+CrackTri3 93 { 93 95 94 }
+CrackTri3 94 { 95 96 94 }
+CrackTri3 95 { 95 97 96 }
+CrackTri3 96 { 97 98 96 }
+CrackTri3 97 { 97 99 98 }
+CrackTri3 98 { 99 100 98 }
+CrackTri3 99 { 99 101 100 }
+CrackTri3 100 { 101 102 100 }
+CrackTri3 101 { 101 103 102 }
+CrackTri3 102 { 103 104 102 }
+CrackTri3 103 { 103 105 104 }
+CrackTri3 104 { 105 106 104 }
+CrackTri3 105 { 105 107 106 }
+CrackTri3 106 { 107 108 106 }
+CrackTri3 107 { 107 109 108 }
+CrackTri3 108 { 109 110 108 }
+CrackTri3 109 { 109 111 110 }
+CrackTri3 110 { 111 112 110 }
+CrackTri3 111 { 111 113 112 }
+CrackTri3 112 { 113 114 112 }
+CrackTri3 113 { 113 115 114 }
+CrackTri3 114 { 115 116 114 }
+CrackTri3 115 { 115 117 116 }
+CrackTri3 116 { 117 118 116 }
+CrackTri3 117 { 117 119 118 }
+CrackTri3 118 { 119 120 118 }
+CrackTri3 119 { 119 121 120 }
+CrackTri3 120 { 121 122 120 }
+CrackTri3 121 { 121 123 122 }
+CrackTri3 122 { 123 124 122 }
+
+END
+END CRACKSURFACE
+
