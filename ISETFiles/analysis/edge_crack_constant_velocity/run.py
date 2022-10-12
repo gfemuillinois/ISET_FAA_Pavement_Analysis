@@ -65,7 +65,8 @@ for iline in range(nvertices_mls):
 
     index = int(split[0]); err = float(split[7])
     if ( index % 3 == 0 ):
-        Gs[count_id] = err
+        if not (count_id == 0 or count_id == (nvertices - 1)):
+            Gs[count_id] = err
         count_id += 1
 
 file.close()
